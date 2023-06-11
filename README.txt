@@ -1,1 +1,1 @@
-This code will translate a text to all languages that google translate has to offer, and create an output folder in the directory the file is in
+This code will translate a text to all languages that google translate has to offer, and create an output folder in the directory the file is in. You need to type the language code when you are promted to type in the source language.
